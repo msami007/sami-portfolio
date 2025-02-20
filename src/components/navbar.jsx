@@ -58,7 +58,7 @@ const Navbar = () => {
         </div>
         <div className="footer flex flex-col">
           <span>Get in touch</span>
-          <a href="#" className="email hover:underline">abdullahnaeemmm@gmail.com</a>
+          <a href="#" className="email hover:underline">saisami902@gmail.com</a>
         </div>
       </div>
     </nav>

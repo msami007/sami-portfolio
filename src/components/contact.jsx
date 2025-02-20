@@ -123,9 +123,9 @@ function Getintouch() {
                     </button>
                 </div>
                 <div className='flex flex-col items-center mt-[5vh]' style={{ opacity: '1', transform: 'none' }}>
-                    <p className="poppins-regular text-3xl">Benji</p>
-                    <p className="poppins-extralight text-3xl font-light">Abdullah</p>
-                    <p className="text-gray-500 text-xl px-4 tracking-[calc(-1rem*0.03)] mt-[8vh] select-none mb-1 text-center">© Abdullah Naeem 2024. All rights reserved. Location: Pakisan</p>
+                    <p className="poppins-regular text-3xl">Muhammad</p>
+                    <p className="poppins-extralight text-3xl font-light">Sami</p>
+                    <p className="text-gray-500 text-xl px-4 tracking-[calc(-1rem*0.03)] mt-[8vh] select-none mb-1 text-center">© Muhammad Sami 2024. All rights reserved. Location: Pakisan</p>
                     <p className="text-gray-500 text-xl px-4 select-none tracking-[calc(-1rem*0.03)] mb-8 max-w-[500px] text-center">This site showcases my personal projects and professional work. Content may not be used without permission.</p>
                 </div>
             </div>
