@@ -116,7 +116,7 @@ function Reveal_text() {
                 </div>
                 <div className="about flex justify-between">
                     <div className="name-btn">
-                        <h2 ref={benjiRef}>Hi, I'm Benji.</h2>
+                        <h2 ref={benjiRef}>Hi, I'm Sami.</h2>
                         <button
                             ref={buttonRef}
                             className="touch bg-black text-white w-40 h-12 rounded-full mt-10"
