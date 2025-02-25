@@ -215,7 +215,7 @@ function getImage(title) {
     case 'Online Store App':
       return './assets/store.png';
     case 'Portfolio':
-      return './assets/port.pn';
+      return './assets/port.png';
     default:
       return '';
   }
