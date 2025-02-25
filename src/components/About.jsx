@@ -57,9 +57,9 @@ function Reveal_text() {
         // GSAP Timeline
         const tl = gsap.timeline({
             scrollTrigger: {
-                trigger: headingRef.current,
-                start: 'top 80%',
-                end: 'top top',
+                trigger: aboutRef.current,
+                start: '30% 80%',
+                end: 'bottom top',
                 scrub: false,
                 markers: false,
                 onEnter: () => tl.play(),
